@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CozyCore - Shop Comfortably",
+  "description": "Premium home appliances and goods curated for maximum comfort and modern living. Shop Comfortably with CozyCore.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
